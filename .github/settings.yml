@@ -1,0 +1,4 @@
+repository:
+  name: preview-tester
+  description: repository for testing preview instances against
+  visibility: public

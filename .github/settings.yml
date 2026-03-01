@@ -3,3 +3,4 @@ repository:
   description: repository for testing preview instances
   visibility: public
   has_wiki: false
+  homepage: https://github.com/repository-settings/hosted-instance
